@@ -85,7 +85,21 @@ OST Email Explorer is a full-stack application designed to help users search, fi
 
 ## 🚀 Getting Started
 
-##### Installation -
+### ⚡ Quick Start (Easiest Way)
+
+**Windows users:** Simply double-click `START_APP.bat` to launch the application!
+
+This automated script will:
+- ✅ Check and install Python dependencies
+- ✅ Check and install Node.js dependencies  
+- ✅ Start both backend and frontend servers
+- ✅ Open the app in your browser
+
+**Alternative:** Run from command line: `.\START_APP.bat`
+
+---
+
+##### Installation (Manual Setup)
 -----------------------------
 
 #### 1. Backend Setup
